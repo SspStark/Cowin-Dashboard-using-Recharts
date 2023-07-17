@@ -1,4 +1,4 @@
-# [cowin-Dashboard](https://sspcowindb.ccbp.tech/)
+# [Cowin-Dashboard](https://sspcowindb.ccbp.tech/)
 
 ### Refer to the images below:
 
